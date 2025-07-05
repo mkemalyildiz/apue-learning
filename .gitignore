@@ -1,0 +1,20 @@
+
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+*.so
+*.a
+*.dSYM/
+*.swp
+
+# Ignore build artifacts
+build/
+bin/
+tmp/
+
+# Ignore backup files
+*~
+
+# VS Code settings (optional)
+.vscode/
